@@ -1,4 +1,4 @@
-# NoteTaker# Note Taker App 
+# NoteTaker
 
 ---
 
